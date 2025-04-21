@@ -29,3 +29,15 @@ public class MainPekerja {
         System.out.println(c);
     }
 }
+
+/*
+Penjelasan
+Test Case A: Dimas sudah kerja 2 tahun → bonus 5% dari gaji ($100). 
+Punya 2 anak → tunjangan anak $40. Tambah tunjangan menikah laki-laki $25.
+
+Test Case B: Rina sudah kerja 9 tahun → bonus 10% dari gaji ($250).
+Tidak punya anak, tapi ada tunjangan menikah perempuan $20.
+
+Test Case C: Pak Budi sudah kerja 20 tahun → bonus 15% dari gaji ($450).
+Punya 10 anak → tunjangan anak $200. Tambah tunjangan menikah laki-laki $25.
+ */

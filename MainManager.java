@@ -12,3 +12,18 @@ public class MainManager {
         System.out.println(manajer2);
     }
 }
+/*
+Perhitungan Pendapatan:
+Gaji Pokok: $7500
+
+Bonus (karena kerja 15 tahun): 15% dari $7500 = $1125
+
+Tunjangan Anak (2 anak): 2 × $20 = $40
+
+Tunjangan Suami (karena menikah dan laki-laki): $25
+
+Tunjangan Manager (10% dari gaji): 10% × $7500 = $750
+
+Total Pendapatan:
+7500 + 1125 + 40 + 25 + 750 = $9440
+ */
